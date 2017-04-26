@@ -1,4 +1,4 @@
-# TA_Text_Analytics
+# Teaching Assistant: Text Analytics
 Create 4 Python Lab Tutorials: Teaching Assistant-Text Analytics.
 
 This repository includes 4 jupyter notebook that are created for Text Analytics course. 
